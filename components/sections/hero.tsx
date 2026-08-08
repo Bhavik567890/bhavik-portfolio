@@ -118,7 +118,7 @@ export function Hero() {
             </MagneticButton>
             <MagneticButton>
               <Button variant="outline" size="lg" asChild>
-                <a href="#contact">
+                <a href={`mailto:${profile.email}`}>
                   <Mail className="size-4" />
                   Let&apos;s talk
                 </a>
