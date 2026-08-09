@@ -26,7 +26,7 @@ export const projects: Project[] = [
   {
     id: "notch-carbon",
     name: "Notch Carbon Accounting",
-    year: "2025",
+    year: "2024",
     description:
       "An enterprise carbon accounting platform — I owned site management, reporting, profiles, and membership modules, with role-based authentication hardening access control.",
     tech: ["React", "Next.js", "TypeScript", "Node.js", "MongoDB"],
@@ -34,7 +34,7 @@ export const projects: Project[] = [
   {
     id: "alpha-compliance",
     name: "Alpha Compliance Hub",
-    year: "2024",
+    year: "2025",
     description:
       "A compliance platform with customer and admin applications — featuring real-time updates via Socket.io, interactive maps, and import/export compliance workflows on a microservice architecture.",
     tech: ["React", "Node.js", "NestJS", "Socket.io", "PostgreSQL"],
@@ -50,7 +50,7 @@ export const projects: Project[] = [
   {
     id: "soft-partnas",
     name: "Soft Partnas Recruitment",
-    year: "2022",
+    year: "2023",
     description:
       "A recruitment platform connecting companies and candidates — with role-based authentication, subscriptions, job listings, and a full application workflow.",
     tech: ["React", "Redux", "Node.js", "Express", "MongoDB"],

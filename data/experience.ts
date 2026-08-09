@@ -20,7 +20,7 @@ export const experience: Experience[] = [
     period: "Apr 2026 – Present",
     type: "Full-time",
     location: "Ahmedabad, India",
-    website: "https://platter.in",
+    website: "https://plattermanagement.com",
     summary:
       "Owning customer-facing surfaces at a growing food-tech company — from the marketing website that tells the brand story to the point-of-sale admin that runs restaurant operations.",
     highlights: [
